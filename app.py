@@ -1,1 +1,1 @@
-print("Hellow World !");
+print("HELLOW WORLD !");
